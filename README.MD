@@ -1,3 +1,5 @@
+## This plugin is for DarkRift 1 and will not work in a DarkRift 2 server!
+
 Hello!
 
 These resources are free for you to use/copy/generally do what you like with.
